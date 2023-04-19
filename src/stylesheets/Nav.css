@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&display=swap');
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+ }
+ .App {
+   font-family: sans-serif;
+   width: 100%;
+   min-height: 100vh;
+ }
+ 
+.navbar {
+  position: relative;
+  font-family: 'Alkatra', cursive;
+
+   width: 100%;
+   min-height: 10vh;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   /* color: #000; */
+   color: #fff;
+   
+   background: #04dbb7;
+   
+   
+ }
+ 
+ .App .navbar .nav-links {
+   width: 20%;
+   display: flex;
+   justify-content: space-around;
+   list-style: none;
+ }
+ 
+ .App .navbar .nav-links>a{
+   /* color: #000; */
+   color: #fff;
+   text-decoration: none;
+   margin-right:30px;
+   font-size: 19px;
+   
+ }
+ .logo img{
+height: 4rem;
+ }
+ .logo{
+  position: absolute;
+  left: 2%;
+ }
+ .nav-links{
+  position: absolute;
+  left: 60%;
+  
+ }
+ .basket{
+  position: absolute;
+  left: 95%;
+  
+ }
+ .basket i{
+  color: #fff;
+  
+ }
+
+ .basket i:hover{
+cursor: pointer;
+ }

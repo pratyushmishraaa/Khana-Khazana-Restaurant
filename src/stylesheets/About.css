@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600;700&display=swap');
+
+.About-container{
+   /* font-size: 3rem; */
+   font-family: 'Alkatra', cursive;
+  
+   overflow-x: hidden;
+   
+   
+}
+.About-container span{
+color: #04dbb7 ;
+}
+.head{
+   position: absolute;
+   left: 20%;
+   top: 15%;
+   font-size: 3rem;
+
+}
+
+
+.about-cafe{
+   font-size:3rem;
+   font-family: 'Alkatra', cursive;
+   position: absolute;
+   top: 23%;
+   left: 8%;
+   display: flex;
+   gap: 80px;
+}
+
+.cafe-intro{
+   font-size:1.2rem;
+   /* border: 2px solid red; */
+   height: 400px;
+   width: 650px;
+   
+   
+}
+.about-ka-pic img{
+height: 400px;
+width:500px ;
+border-radius: 15px;
+
+
+/* border: 2px solid red; */
+
+
+
+
+}
