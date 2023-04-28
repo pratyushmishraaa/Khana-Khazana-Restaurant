@@ -17,7 +17,7 @@ export default function Nav() {
             <Link to="/service">Services</Link>
             <Link to="/booking">Booking</Link>
             <Link to="/contact">Contact</Link>
-            <Link to="/signup">Signup</Link>
+            <Link to="/loginPage">Login</Link>
          </ul>
 
 

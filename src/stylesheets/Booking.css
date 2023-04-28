@@ -8,6 +8,9 @@
    text-align: center;
   
 }
+.booking-heading h1{
+   color: #fff;
+}
 .booking-heading span{
    color: #04dbb7;
 }
@@ -63,4 +66,18 @@ width: 35vw;
 button[type="submit"]:hover {
 background-color: #ccc;
 
+}
+.booking-time{
+   padding: 10px;
+   display: flex;
+   position: absolute;
+   top: 75%;
+   left: 3%;
+}
+.booking-payment{
+   padding: 10px;
+   display: flex;
+   position: relative;
+   top: 75%;
+   left: 25%;
 }

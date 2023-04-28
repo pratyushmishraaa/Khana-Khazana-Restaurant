@@ -34,7 +34,7 @@ function Booking() {
     }
 
     try {
-      await axios.post('http://localhost:3001/App', {
+      await axios.post('http://localhost:4000/App', {
         name,
         email,
         mobile,
@@ -78,8 +78,8 @@ function Booking() {
           <label>Date:</label>
           <input type="date" value={date} onChange={(event) => setDate(event.target.value)} required />
         </div>
-        <div>
-          <label>Time Slot:</label>
+        <div className='booking-time'>
+          <label >Time Slot: </label>
           <select value={time} onChange={(event) => setTime(event.target.value)} required>
             <option value="">-- Select --</option>
             <option value="10am-12pm">10am-12pm</option>
@@ -90,8 +90,8 @@ function Booking() {
             <option value="8pm-10pm">8pm-10pm</option>
           </select>
         </div>
-        <div>
-          <label>Payment Mode:</label>
+        <div className='booking-payment'>
+          <label>Payment Mode: </label>
           <select value={paymentMode} onChange={(event) => setPaymentMode(event.target.value)} required>
             <option value="">-- Select --</option>
             <option value="credit card">Credit Card</option>
