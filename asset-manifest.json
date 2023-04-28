@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/Khana-Khazana-Restaurant/static/css/main.730f06f3.css",
-    "main.js": "/Khana-Khazana-Restaurant/static/js/main.f5e3ce7f.js",
+    "main.css": "/Khana-Khazana-Restaurant/static/css/main.16f3a766.css",
+    "main.js": "/Khana-Khazana-Restaurant/static/js/main.524ce359.js",
+    "static/media/Kadai-Paneer.jpg": "/Khana-Khazana-Restaurant/static/media/Kadai-Paneer.37eac5ef8807f163967b.jpg",
     "static/media/about-1.jpg": "/Khana-Khazana-Restaurant/static/media/about-1.99d2d8185561b45ba598.jpg",
     "static/media/contact.jpg": "/Khana-Khazana-Restaurant/static/media/contact.ce8f4e215a670ed7d9ea.jpg",
+    "static/media/Masala-Dosa.jpg": "/Khana-Khazana-Restaurant/static/media/Masala-Dosa.899f0d210c8c19da6b49.jpg",
     "static/media/reservation.jpg": "/Khana-Khazana-Restaurant/static/media/reservation.d2eddfa7a8192c9df4ed.jpg",
     "static/media/pic1.jpg": "/Khana-Khazana-Restaurant/static/media/pic1.03a471f7d4acae2a057b.jpg",
     "static/media/table.jpg": "/Khana-Khazana-Restaurant/static/media/table.6de1030fcda9d857e101.jpg",
+    "static/media/big_momos-15964.jpg": "/Khana-Khazana-Restaurant/static/media/big_momos-15964.3be4fb2e46bb4f731362.jpg",
     "static/media/take away food.jpg": "/Khana-Khazana-Restaurant/static/media/take away food.ebd78f15e00180a9fab6.jpg",
     "static/media/logo.png": "/Khana-Khazana-Restaurant/static/media/logo.6040f7d8bdfab7704a93.png",
-    "static/media/Dal-Tadka.jpg": "/Khana-Khazana-Restaurant/static/media/Dal-Tadka.cef120e79aaa1256e8d8.jpg",
     "index.html": "/Khana-Khazana-Restaurant/index.html",
-    "main.730f06f3.css.map": "/Khana-Khazana-Restaurant/static/css/main.730f06f3.css.map",
-    "main.f5e3ce7f.js.map": "/Khana-Khazana-Restaurant/static/js/main.f5e3ce7f.js.map"
+    "main.16f3a766.css.map": "/Khana-Khazana-Restaurant/static/css/main.16f3a766.css.map",
+    "main.524ce359.js.map": "/Khana-Khazana-Restaurant/static/js/main.524ce359.js.map"
   },
   "entrypoints": [
-    "static/css/main.730f06f3.css",
-    "static/js/main.f5e3ce7f.js"
+    "static/css/main.16f3a766.css",
+    "static/js/main.524ce359.js"
   ]
 }
